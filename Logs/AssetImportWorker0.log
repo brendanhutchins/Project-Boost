@@ -305,3 +305,50 @@ Start importing Assets/Levels/Level 1/LightingData.asset using Guid(16700971609f
  -> (artifact id: '67038092e9234bd68d4907b8484fd49e') in 0.006045 seconds
   Import took 0.008618 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 792.483903 seconds.
+  path: Assets/Levels/easy gap.unity
+  artifactKey: Guid(f61bd238a182e5544a155110cb1d7723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/easy gap.unity using Guid(f61bd238a182e5544a155110cb1d7723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c020141d47928b94e427236787c660') in 0.006615 seconds
+  Import took 0.009762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.965486 seconds.
+  path: Assets/Oscillator.cs
+  artifactKey: Guid(cb764cc54fa044bb3b57005e58812dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oscillator.cs using Guid(cb764cc54fa044bb3b57005e58812dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311a04bf818b1dab31f6681cf77d4253') in 0.290016 seconds
+  Import took 0.292223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.794525 seconds.
+  path: Assets/Oscillator.cs
+  artifactKey: Guid(cb764cc54fa044bb3b57005e58812dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oscillator.cs using Guid(cb764cc54fa044bb3b57005e58812dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9a27d03b201f1eb45a77adf3eb0098') in 0.003224 seconds
+  Import took 0.005776 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.191 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.9 MB.
+System memory in use after: 176.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 2.215495 ms (FindLiveObjects: 0.179725 ms CreateObjectMapping: 0.039443 ms MarkObjects: 1.963746 ms  DeleteObjects: 0.030616 ms)
+
